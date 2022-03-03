@@ -1,0 +1,32 @@
+{
+  "name": "JACAT",
+  "version": "0.2.0",
+  "description": "Just Another Codeigniter/AdminLTE Template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akir4d/JACAT"
+  },
+  "authors": [
+    "Michael Chan <waifung.hk>",
+    "Paolo Rampino <liadserv at gmail.com>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "del": "*",
+    "gulp": "3.9.1",
+    "gulp-changed": "3.2.0",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-imagemin": "3.4.0",
+    "gulp-notify": "*",
+    "gulp-sass": "*",
+    "gulp-sequence": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "require-dir": "*"
+  }
+}

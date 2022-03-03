@@ -1,0 +1,26 @@
+{
+  "name": "jacat",
+  "version": "0.2.0",
+  "homepage": "https://github.com/Akir4d/JACAT",
+  "authors": [
+    "Michael Chan <waifung.hk>",
+    "Paolo Rampino <liadserv at gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "admin-lte": "^3",
+    "ionicons": "^5",
+    "Sortable": "^1.4.2",
+    "spectrum": "^1.8.0",
+    "bootbox.js": "bootbox#^5.4.0",
+    "fancybox": "^3",
+    "blueimp-file-upload": "^10.9.0"
+  }
+}
